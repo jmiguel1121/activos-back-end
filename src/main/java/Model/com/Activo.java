@@ -14,6 +14,7 @@ public class Activo {
 	public long getId() {
 		return id;
 	}
+	/* rama preuba*/
 	public void setId(long id) {
 		this.id = id;
 	}
