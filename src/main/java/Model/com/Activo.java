@@ -14,10 +14,7 @@ public class Activo {
 	public long getId() {
 		return id;
 	}
-	/* rama preubas*/
-=======
-	/* rama preuba 3*/
->>>>>>> prueba_3
+	/* rama preubas */
 	public void setId(long id) {
 		this.id = id;
 	}
