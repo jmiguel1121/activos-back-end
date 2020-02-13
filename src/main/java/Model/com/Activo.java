@@ -18,6 +18,7 @@ public class Activo {
 	public void setId(long id) {
 		this.id = id;
 	}
+    /* rama preuba 3*/
 	public String getDescripcion() {
 		return descripcion;
 	}
