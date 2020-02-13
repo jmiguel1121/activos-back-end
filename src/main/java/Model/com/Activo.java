@@ -28,6 +28,7 @@ public class Activo {
 	public String getColor() {
 		return color;
 	}
+    /* rama preuba */
 	public void setColor(String color) {
 		this.color = color;
 	}
