@@ -18,15 +18,19 @@ public class Activo {
 	public void setId(long id) {
 		this.id = id;
 	}
+    /* rama master*/
 	public String getDescripcion() {
 		return descripcion;
 	}
+    /* rama master*/
 	public void setDescripcion(String descripcion) {
 		this.descripcion = descripcion;
 	}
+    /* rama master*/
 	public String getColor() {
 		return color;
 	}
+    /* rama master*/
 	public void setColor(String color) {
 		this.color = color;
 	}
