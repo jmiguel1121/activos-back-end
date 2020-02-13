@@ -34,7 +34,7 @@ public class Activo {
 		this.color = color;
 	}
 	
-	/*commit repositorio externo_10*/
+	/*commit repositorio externo_11*/
 	
 	
 }
