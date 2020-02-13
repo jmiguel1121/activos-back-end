@@ -34,7 +34,7 @@ public class Activo {
 		this.color = color;
 	}
 	
-	/*commit repositorio conflicto de nuevo*/
+	/*commit repositorio conflicto de nuevo_2*/
 	
 	
 }
