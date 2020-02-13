@@ -34,11 +34,7 @@ public class Activo {
 		this.color = color;
 	}
 	
-<<<<<<< HEAD
-	/*commit repositorio conflicto de nuevo_2*/
-=======
-	/*commit repositorio externo_4*/
->>>>>>> coomit repositorio externo_4
+	/*commit repositorio externo_5*/
 	
 	
 }
