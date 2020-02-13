@@ -14,11 +14,11 @@ public class Activo {
 	public long getId() {
 		return id;
 	}
-	/* rama master*/
+	/* rama preuba 3_3*/
 	public void setId(long id) {
 		this.id = id;
 	}
-    /* rama master*/
+    /* rama preuba 3*/
 	public String getDescripcion() {
 		return descripcion;
 	}
@@ -26,11 +26,11 @@ public class Activo {
 	public void setDescripcion(String descripcion) {
 		this.descripcion = descripcion;
 	}
-    /* rama master*/
+    /* rama preuba 2*/
 	public String getColor() {
 		return color;
 	}
-    /* rama master*/
+    /* rama preuba */
 	public void setColor(String color) {
 		this.color = color;
 	}
