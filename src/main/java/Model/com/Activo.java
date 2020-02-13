@@ -24,6 +24,7 @@ public class Activo {
 	public void setDescripcion(String descripcion) {
 		this.descripcion = descripcion;
 	}
+    /* rama preuba 2*/
 	public String getColor() {
 		return color;
 	}
