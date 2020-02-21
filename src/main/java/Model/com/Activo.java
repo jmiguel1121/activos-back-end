@@ -29,7 +29,7 @@ public class Activo {
 	public String getColor() {
 		return color;
 	}
-    /* rama preuba */
+    /* rama preuba_4 */
 	public void setColor(String color) {
 		this.color = color;
 	}
